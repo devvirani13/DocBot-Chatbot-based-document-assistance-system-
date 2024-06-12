@@ -94,6 +94,4 @@ This project is a PDF Question Answering System built using Flask, YOLO, EasyOCR
 - [YOLO](https://github.com/ultralytics/ultralytics)
 - [Flask](https://github.com/pallets/flask)
 
-## Creators
 
-- [Yash Shrivastava]()
